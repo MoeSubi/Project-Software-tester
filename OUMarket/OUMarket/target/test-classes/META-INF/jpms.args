@@ -1,0 +1,4 @@
+--patch-module
+com.htl.oumarket=_
+--add-reads
+com.htl.oumarket=ALL-UNNAMED

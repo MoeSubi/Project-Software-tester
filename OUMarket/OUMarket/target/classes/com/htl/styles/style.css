@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Apr 10, 2022, 12:43:15 PM
+    Author     : huynh
+*/
+.tab *.tab-label {
+    -fx-rotate: 90;
+}
+
+.tab {
+    -fx-padding: 3em 0.5em 3em 0.5em;
+}
+
+.logo {
+    background-image: url("com.htl.pictures/OUMarket.png");
+}
